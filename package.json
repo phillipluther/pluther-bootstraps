@@ -1,0 +1,11 @@
+{
+  "name": "pluther-bootstraps",
+  "version": "0.0.0",
+  "description": "Common dev tools, configs, and everything just the way I like it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Luther <dev@phillipluther.com> (https://phillipluther.com/)",
+  "license": "MIT"
+}
