@@ -18,5 +18,8 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1"
   },
-  "devDependencies": {}
+  "gitHead": "9f169885779610711340fa121f801f53be429528",
+  "publishConfig": {
+    "access": "public"
+  }
 }
