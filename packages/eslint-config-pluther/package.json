@@ -1,10 +1,10 @@
 {
-  "name": "eslint-config-pluther",
+  "name": "@phillipluther/eslint-config-pluther",
   "version": "0.0.0",
   "description": "A deeply personal set of linting/formatting options; if you're not me, you might hate these",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "keywords": [],
   "author": "Phillip Luther <dev@phillipluther.com> (https://phillipluther.com/)",
@@ -17,5 +17,6 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-prettier": "^4.2.1"
-  }
+  },
+  "devDependencies": {}
 }
