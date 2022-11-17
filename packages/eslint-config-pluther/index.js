@@ -5,12 +5,11 @@ module.exports = {
     node: true,
   },
   extends: ['eslint:recommended', 'plugin:prettier/recommended'],
-  parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 'latest',
     sourceType: 'module',
   },
-  plugins: ['@typescript-eslint'],
+  plugins: [],
   rules: {
     indent: ['error', 2],
     'linebreak-style': ['error', 'unix'],
