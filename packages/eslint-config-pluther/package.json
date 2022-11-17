@@ -23,12 +23,5 @@
   "gitHead": "9f169885779610711340fa121f801f53be429528",
   "publishConfig": {
     "access": "public"
-  },
-  "files": [
-    "package.json",
-    ".eslintrc.js",
-    "index.js",
-    "LICENSE",
-    "README.md"
-  ]
+  }
 }
