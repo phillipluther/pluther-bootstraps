@@ -1,7 +1,7 @@
 {
   "name": "@phillipluther/eslint-config-pluther",
   "version": "0.2.2",
-  "description": "A deeply personal set of linting/formatting options; if you're not me, you might hate these",
+  "description": "DEPRECATED! Use @phillipluther/eslint-config instead.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
@@ -11,15 +11,9 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": "^8.0.0",
-    "prettier": "^2.0.0"
+    "eslint-plugin-import": "^2.26.0"
   },
-  "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.43.0",
-    "@typescript-eslint/parser": "^5.43.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-prettier": "^4.2.1"
-  },
+  "dependencies": {},
   "gitHead": "9f169885779610711340fa121f801f53be429528",
   "publishConfig": {
     "access": "public"

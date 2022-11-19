@@ -1,3 +1,3 @@
 # eslint-plugin-pluther
 
-A deeply personal set of linting/formatting options; if you're not me, you might hate these
+This package has been deprecated and will receive no further updates. Use `@phillipluther/eslint-config` instead.
