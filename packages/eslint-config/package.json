@@ -1,0 +1,34 @@
+{
+  "name": "@phillipluther/eslint-config",
+  "version": "0.0.0",
+  "description": "A deeply personal set of linting/formatting options; if you're not me, you might hate these",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Phillip Luther <dev@phillipluther.com> (https://phillipluther.com/)",
+  "license": "MIT",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 5",
+    "eslint": ">= 8",
+    "eslint-import-resolver-typescript": "> 3",
+    "eslint-plugin-import": ">= 2"
+  },
+  "dependencies": {
+    "@typescript-eslint/parser": "^5.43.0"
+  },
+  "gitHead": "9f169885779610711340fa121f801f53be429528",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.43.0",
+    "eslint": "^8.28.0",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
