@@ -1,6 +1,6 @@
 {
   "name": "@phillipluther/eslint-config-pluther",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "DEPRECATED! Use @phillipluther/eslint-config instead.",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,6 @@
     "eslint": "^8.0.0",
     "eslint-plugin-import": "^2.26.0"
   },
-  "dependencies": {},
   "gitHead": "9f169885779610711340fa121f801f53be429528",
   "publishConfig": {
     "access": "public"
