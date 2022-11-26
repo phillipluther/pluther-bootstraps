@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@phillipluther/prettier-config",
   "version": "0.0.0",
   "description": "A deeply personal set of formatting rules; plays well with @phillipluther/eslint-config",
   "main": "index.js",
