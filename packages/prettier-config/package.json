@@ -1,0 +1,32 @@
+{
+  "name": "prettier-config",
+  "version": "0.0.0",
+  "description": "A deeply personal set of formatting rules; plays well with @phillipluther/eslint-config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "keywords": [
+    "prettier",
+    "prettierconfig"
+  ],
+  "author": "Phillip Luther <dev@phillipluther.com> (https://phillipluther.com/)",
+  "license": "MIT",
+  "prettier": "./prettier.config.js",
+  "eslintConfig": {
+    "extends": [
+      "@phillipluther/eslint-config"
+    ]
+  },
+  "devDependencies": {
+    "@phillipluther/eslint-config": "^0.1.1",
+    "eslint": "^8.28.0",
+    "prettier": "^2.8.0"
+  },
+  "peerDependencies": {
+    "prettier": ">= 2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
