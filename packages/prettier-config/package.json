@@ -1,6 +1,6 @@
 {
   "name": "@phillipluther/prettier-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A deeply personal set of formatting rules; plays well with @phillipluther/eslint-config",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     ]
   },
   "devDependencies": {
-    "@phillipluther/eslint-config": "^0.1.1",
+    "@phillipluther/eslint-config": "^0.1.2",
     "eslint": "^8.28.0",
     "prettier": "^2.8.0"
   },
