@@ -2,7 +2,7 @@
   "name": "@phillipluther/prettier-config",
   "version": "0.1.1",
   "description": "A deeply personal set of formatting rules; plays well with @phillipluther/eslint-config",
-  "main": "prettier.config.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
